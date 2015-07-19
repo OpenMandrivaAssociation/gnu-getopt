@@ -31,7 +31,7 @@
 
 Name:           gnu-getopt
 Version:        1.0.14
-Release:        7.1
+Release:        7.2
 Epoch:          0
 Summary:        Java getopt implementation
 Group:		Development/Java
