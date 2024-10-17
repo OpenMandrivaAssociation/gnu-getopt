@@ -36,7 +36,7 @@ Epoch:          0
 Summary:        Java getopt implementation
 Group:		Development/Java
 License:        LGPLv2+
-URL:            http://www.urbanophile.com/arenn/hacking/download.html
+URL:            https://www.urbanophile.com/arenn/hacking/download.html
 Source0:        http://www.urbanophile.com/arenn/hacking/getopt/java-getopt-%{version}.tar.gz
 Source2:        gnu-getopt-%{version}.pom
 
